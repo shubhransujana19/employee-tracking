@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "790555235471",
+    "firebase_url": "https://emptrack-42bf8-default-rtdb.firebaseio.com",
+    "project_id": "emptrack-42bf8",
+    "storage_bucket": "emptrack-42bf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790555235471:android:1f2d08d9d1bf6af7114cfa",
+        "android_client_info": {
+          "package_name": "com.example.track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790555235471-4f45dctiun07k3iv2npq2u70br365n9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMHXM2oMmSosKrgXaQQVF1mn1j6CuSTmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790555235471-4f45dctiun07k3iv2npq2u70br365n9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "790555235471-0hh9thaojrie8cfqutcf4dvsqjdvcla2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.track"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
